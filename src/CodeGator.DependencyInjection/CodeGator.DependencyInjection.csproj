@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Description>Dependency injection extensions used by other CodeGator solutions</Description>
+    <Description>Dependency injection extensions used by various CodeGator solutions</Description>
     <PackageIcon>packageDefaultIcon-128x128.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>

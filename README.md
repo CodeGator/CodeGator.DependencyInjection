@@ -1,9 +1,10 @@
 ## CodeGator.DependencyInjection: 
 ---
 
+[![Build Status](https://dev.azure.com/codegator/CodeGator.DependencyInjection/_apis/build/status%2FCodeGator.CodeGator.DependencyInjection?branchName=main)](https://dev.azure.com/codegator/CodeGator.DependencyInjection/_build/latest?definitionId=118&branchName=main)
 
 #### What does it do?
-This package contains dependency injection extensions used by other CodeGator solutions.
+This package contains dependency injection extensions used by various CodeGator solutions.
 
 #### What platform(s) does it support?
 * .NET 9.x or higher
