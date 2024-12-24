@@ -7,6 +7,8 @@
     <Description>Dependency injection extensions used by various CodeGator solutions</Description>
     <PackageIcon>packageDefaultIcon-128x128.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/CodeGator/CodeGator.DependencyInjection</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CodeGator/CodeGator.DependencyInjection</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
