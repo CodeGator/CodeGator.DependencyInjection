@@ -3,6 +3,10 @@
 
 [![Build Status](https://dev.azure.com/codegator/CodeGator.DependencyInjection/_apis/build/status%2FCodeGator.CodeGator.DependencyInjection?branchName=main)](https://dev.azure.com/codegator/CodeGator.DependencyInjection/_build/latest?definitionId=118&branchName=main)
 
+![NuGet Version](https://img.shields.io/nuget/v/CodeGator.DependencyInjection)
+
+![NuGet Downloads](https://img.shields.io/nuget/dt/CodeGator.DependencyInjection)
+
 #### What does it do?
 This package contains dependency injection extensions used by various CodeGator solutions.
 
